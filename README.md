@@ -1,5 +1,7 @@
 # Vinnie's ReadMe
 
+**NOTE** I'm proud to announce that since this ReadMe was written in 2018 Altru has been [acquired by iCIMS](https://www.icims.com/company/newsroom/icims-acquires-altru-labs/)! Everything written still applies, I just wanted to be up front about the context in which this was originally written.
+
 ### What Is This?
 This document is a guide for anyone that works on a team that I manage. It was originally written for my role as CTO at Altru, but should apply to any role, at any company. The intention is to present this document as a sort of contract to set expectations clearly and allow you to hold me accountable. None of this information is secret or hard to discern in person; I just think it's convenient and transparent to have it documented somewhere public. ([More info](https://medium.com/@kawomersley/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b))
 
