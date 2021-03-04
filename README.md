@@ -11,6 +11,7 @@ This document is a guide for anyone that works on a team that I manage. It was o
 * This is a living document, it is subject to change as I evolve and improve.
 * I very much appreciate feedback, so please let me know what you do/don’t like.
 * This is on GitHub so you can track changes, feel free to look at the history.
+* My GitHub photo is presented "tongue in cheek" (as is the "About" section of my LinkedIn profile).
 
 ### My Origin Story
 I graduated from Carnegie Mellon University with a double major in computer science and psychology. I've worked as a software engineer, a media engineer, technical director, and a cofounding CTO. My first company, PublicStuff, provided 311 services for local government. I ran it for 7 years until it was acquired in 2015. After that I spent some time re-tooling and getting ready for my next company.
