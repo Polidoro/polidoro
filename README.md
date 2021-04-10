@@ -19,7 +19,7 @@ I graduated from Carnegie Mellon University with a double major in computer scie
 On a more personal note, I'm a native New Yorker, I currently live in Williamsburg but have lived all around Brooklyn and Manhattan over the years. I have an awesome dog named Chip; you'll probably be forced to look at pictures of him from time to time. Things I love, in no particular order: social psychology, the Knicks, science fiction, gifs, sushi, snowboarding, bike riding, and Muay Thai. I try to take a laid-back approach to life as often as possible. Sometimes I don't succeed. That's fine, we're all just people.
 
 ### My Job
-Chief Technical Officers have two primary roles, as technical leaders and as individual contributors. The appropriate balance of these roles changes as the company grows. This is normal, but it’s important to understand the responsibilities of both roles because they vary so significantly.
+Chief Technology Officers have two primary roles, as technical leaders and as individual contributors. The appropriate balance of these roles changes as the company grows. This is normal, but it’s important to understand the responsibilities of both roles because they vary so significantly.
 
 Individual Contributor | Technical Leader
 ------------ | -------------
